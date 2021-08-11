@@ -2,7 +2,7 @@
 // https://raw.githubusercontent.com/cryption-network/polydex-token-list/main/polydexlist.json
 
 {
-  "name": "polydexlist",
+  "name": "list",
   "timestamp": "2020-08-25T15:41:29.665Z",
   "version": {
     "major": 1,
