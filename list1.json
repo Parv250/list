@@ -25,15 +25,15 @@
       "name": "CHilli",
       "symbol": "Chilli",
       "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/matic-network-matic-logo.svg?v=006"
+      "logoURI": "https://chilliswap.org/static/media/logo.b3af6dd7.png"
     },
      {
       "chainId": 80001,
       "address": "0x23092a832ecB8474F81b63F718b7bcEcd13012c9",
-      "name": "DAI",
+      "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/matic-network-matic-logo.svg?v=006"
+      "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=006"
     }
   ]
 }
