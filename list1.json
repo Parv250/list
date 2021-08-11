@@ -18,6 +18,22 @@
       "symbol": "wMatic",
       "decimals": 18,
       "logoURI": "https://cryptologos.cc/logos/matic-network-matic-logo.svg?v=006"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x710876fB8936066ce9f30F9acF4806AC06Ec1DcF",
+      "name": "CHilli",
+      "symbol": "Chilli",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/matic-network-matic-logo.svg?v=006"
+    },
+     {
+      "chainId": 80001,
+      "address": "0x23092a832ecB8474F81b63F718b7bcEcd13012c9",
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/matic-network-matic-logo.svg?v=006"
     }
   ]
 }
