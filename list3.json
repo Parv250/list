@@ -21,9 +21,9 @@
     },
     {
       "chainId": 80001,
-      "address": "0x710876fB8936066ce9f30F9acF4806AC06Ec1DcF",
-      "name": "CHilli",
-      "symbol": "Chilli",
+      "address": "0x1A9E506d123D1e9EF5B5E87CeADD3A782d63Fa3B",
+      "name": "Chilli Token",
+      "symbol": "CHLI",
       "decimals": 18,
       "logoURI": "https://chilliswap.org/static/media/logo.b3af6dd7.png"
     },
