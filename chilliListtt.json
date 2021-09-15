@@ -180,6 +180,14 @@
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/sx.jpg"
     },
     {
+      "name": "Chilli Token",
+      "address": "0x8c7f28BD18ee3BBe766b2036c9E8A8357B07CACa",
+      "symbol": "CHLI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://chilliswap.org/static/media/logo.b3af6dd7.png"
+    },
+    {
       "name": "Must",
       "address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
       "symbol": "MUST",
