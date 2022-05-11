@@ -13,7 +13,7 @@
   "tokens": [
     {
       "chainId": 80001,
-      "address": "0x6a5Bc4B1c7868c7F6e0dB7a562F70A22C19A145e",
+      "address": "0x97276399d28943dcc98b801a7EF0db647B8fB0bD",
       "name": "wMatic",
       "symbol": "wMatic",
       "decimals": 18,
@@ -21,19 +21,27 @@
     },
     {
       "chainId": 80001,
-      "address": "0xe61AE9A147de4455cb54cE074C6Bba50123230C6",
-      "name": "Chilli Token",
-      "symbol": "CHLI",
-      "decimals": 18,
-      "logoURI": "https://chilliswap.org/static/media/logo.b3af6dd7.png"
-    },
-     {
-      "chainId": 80001,
-      "address": "0x23092a832ecB8474F81b63F718b7bcEcd13012c9",
+      "address": "0x332C7aC34580dfEF553B7726549cEc7015C4B39b",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=006"
-    }
+    },
+    {
+      "chainId": 80001,
+      "address": "0x3861e9F29fcAFF738906c7a3a495583eE7Ca4C18",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=006"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x0aCBd07e458F228d4869066b998a0F55F36537B2",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://seeklogo.com/images/T/tether-usdt-logo-FA55C7F397-seeklogo.com.png"
+    },
   ]
 }
