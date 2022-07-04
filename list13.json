@@ -4619,14 +4619,6 @@
       "logoURI": "https://tokens.1inch.io/0x3a880652f47bfaa771908c07dd8673a787daed3a.png"
     },
     {
-      "address": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
-      "chainId": 1,
-      "name": "Quickswap",
-      "symbol": "QUICK",
-      "decimals": 18,
-      "logoURI": "https://tokens.1inch.io/0x6c28aef8977c9b773996d0e8376d2ee379446f2f.png"
-    },
-    {
       "address": "0xa1d6Df714F91DeBF4e0802A542E13067f31b8262",
       "chainId": 1,
       "name": "RFOX",
@@ -8009,14 +8001,6 @@
       "decimals": 8,
       "chainId": 137,
       "logoURI": "https://etherscan.io/token/images/binance-wrx_32.png"
-    },
-    {
-      "name": "QuickSwap NEW",
-      "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
-      "symbol": "QUICK NEW",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
     },
     {
       "name": "Uniswap",
